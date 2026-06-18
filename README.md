@@ -72,8 +72,8 @@ print(me.intro())
   </a>
 
   <a href="mailto:satyamxbuilds@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
   <a href="https://gssoc.girlscript.org/profile/60db27dd-217e-4a48-bed4-5862fb4b733f" target="_blank">
     <img align="center" src="https://img.shields.io/badge/GSSoC'26-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC Profile" />
