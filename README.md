@@ -80,6 +80,13 @@ print(me.intro())
   </a>
 </p>
 
+
+## 🐍 My Contribution Snake
+
+![GitHub Snake Animation](https://githubusercontent.com)
+
+
+
 <div align="center">
 
 ### 🌟 Thanks for visiting my profile 🌟
