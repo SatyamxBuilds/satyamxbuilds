@@ -81,9 +81,12 @@ print(me.intro())
 </p>
 
 
+
+
 ## 🐍 My Contribution Snake
 
-![GitHub Snake Animation](https://github.com)
+<img src="https://githubusercontent.com" alt="GitHub Snake Animation" width="100%">
+
 
 
 
