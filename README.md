@@ -83,7 +83,8 @@ print(me.intro())
 
 ## 🐍 My Contribution Snake
 
-![GitHub Snake Animation](https://githubusercontent.com)
+![GitHub Snake Animation](https://github.com)
+
 
 
 
