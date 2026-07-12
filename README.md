@@ -11,6 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-Learner-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
 </p>
 
 </div>
@@ -39,7 +40,7 @@ print(me.intro())
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=4" />
 </p>
 
 ---
