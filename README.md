@@ -45,13 +45,7 @@ print(me.intro())
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamxbuilds&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
@@ -82,6 +76,7 @@ print(me.intro())
 </p>
 
 
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamxbuilds&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=f472b6&area=true&hide_border=true&radius=12)](https://github.com/satyamxbuilds)
 
 
 
