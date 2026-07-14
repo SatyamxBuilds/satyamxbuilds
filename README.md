@@ -94,11 +94,12 @@ print(me.intro())
 </p> 
 
 
-
+---
 <div align="center">
 
 ### 🌟 Thanks for visiting my profile 🌟
 
 <i>Learning one step at a time 🚀</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=100&section=footer"/>
 
 </div>
