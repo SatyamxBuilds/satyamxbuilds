@@ -88,8 +88,10 @@ print(me.intro())
   <img alt="Snake animation" src="https://raw.githubusercontent.com/satyamxbuilds/satyamxbuilds/output/github-snake.svg" />
 </picture>
 
-
-
+### 🏆Github Trophies
+<p align="center">
+ <img src="https://github-profile-trophy.deno.dev/?username=satyamxbuilds&theme=flat&row=1&no-bg=true&no-frame=true" alt="Satyam's GitHub Trophies" />
+</p> 
 
 
 
