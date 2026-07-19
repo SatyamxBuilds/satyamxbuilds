@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
-# Hi I'm Satyam 👋
+# Hi, I'm Satyam 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Learning+Python+%26+C+💻;Beginner+Programmer+🚀;Building+My+Coding+Journey" />
 
